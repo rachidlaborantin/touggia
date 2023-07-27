@@ -20,4 +20,3 @@ J'utilise **Swing** pour l’interface graphique et **MongoDB** pour le stockage
 ## Historique
 
 - **27 juillet 2023 – Release stable** :  version exécutable fonctionnelle 
-- **22 juillet 2025 – Migration annoncée** : le projet a été déplacé vers le dépôt [`silicofyn/touggia`](https://github.com/silicofyn/touggia) et évolue vers **JavaFX** et d’autres technologies modernes.
